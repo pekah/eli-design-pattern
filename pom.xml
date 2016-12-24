@@ -11,6 +11,9 @@
     <modules>
         <module>observer</module>
         <module>template</module>
+        <module>chain</module>
+        <module>../stragety</module>
+        <module>stragety</module>
     </modules>
 
 
